@@ -1,5 +1,5 @@
-# Práctica SQL
-Practicando consultas SQL mediante la base de datos de prueba **Sakila**
+# Práctica SQL y Mongo
+Practicando consultas SQL y Mongo mediante bases de datos de prueba.
 
 
 Se adjunta *pdf* con todo el trabajo realizado.
